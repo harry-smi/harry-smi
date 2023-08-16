@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harry-smi
 - 👀 I’m interested in improving my programming skills and learning new skills!
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and R.
 
 <!---
 harry-smi/harry-smi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
